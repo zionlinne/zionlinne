@@ -36,6 +36,10 @@ We investigated whether coordination requirements remain enforceable after a mul
 
 I am interested in research collaborations, reproducibility, and technical feedback on these questions.
 
+## Contact
+
+For research collaboration, technical feedback, or academic correspondence, please email **[zion990214@gmail.com](mailto:zion990214@gmail.com)**.
+
 ---
 
 *Research outputs are linked with their underlying code and evidence where available. Ongoing prototypes and future research directions are distinguished from completed experimental results.*
